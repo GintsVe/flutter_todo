@@ -12,7 +12,7 @@ class HomePage extends StatefulWidget {
 class _HomePage extends State<HomePage> {
   String? dropDownValue;
 
-  var languages = ["Latvian", "Russian", "English"];
+  var languages = ["English", "Latviešu", "Pусский"];
 
   final usernameController = TextEditingController();
 
